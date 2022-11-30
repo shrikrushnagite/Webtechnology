@@ -1,0 +1,97 @@
+.inner{
+    height: 590px;
+    width: 320px;
+    border: none;
+    border-radius: 10px;
+    margin: 200px auto;
+    background-color: rgb(44, 44, 95);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    color: white;
+}
+h5 {
+    color: cornflowerblue;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+}
+.inner form{
+    text-align: center;
+    margin-top: -157px;
+    padding-top: 22px;
+}
+.one{
+    padding-left: 45px;
+    margin-right: 15px;
+    border-radius: 20px;
+    height: 29px;
+    width: 190px;
+    border: 1px solid gray;
+    background-color:rgb(44, 44, 95) ;
+    color: gray;
+}
+.sign{
+    padding-left: 51px;
+    padding-right: 50px;
+    height: 40px;
+    width: 242px;
+    border-radius: 20px;
+    background-color: #f7b42c;
+background-image: linear-gradient(315deg, #f7b42c 0%, #fc575e 74%);
+
+    color: white;
+    border: none;
+}
+.foo a{
+    color: #ff6200;
+
+    text-decoration: none;
+    font-style: italic;
+}
+#whit{
+    color: white;
+    font-style: italic;
+}
+.icon {
+    position: relative;
+    top: 2px;
+    left: 41px;
+    justify-content: center;
+    font-size: 17px;
+    color: gray;
+}
+.img{
+    height: 44px;
+    border: 1px solid white;
+    border-radius: 22px;
+    margin-right: 15px;
+    margin-left: 19px;
+    background-color: red;
+}
+img.four {
+    height: 46px;
+    border: 1px solid white;
+    border-radius: 33px;
+    margin-left: 12px;
+    margin-right: 19px;
+}
+h6 {
+    color: red;
+    word-spacing: 39px;
+    margin-top: 0px;
+}
+#P{
+    background-color: rgb(200, 243, 46);
+}
+#C{
+    background-color: #ed3232;
+}
+#T{
+    background-color: gray;
+}
+h6{
+    color: orange;
+}
